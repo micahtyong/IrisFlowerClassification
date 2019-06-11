@@ -8,7 +8,7 @@ I made an effort to document the iPython Notebook well in the event that future 
 # Process # 
 
 <img src = "Demo/Features.png" width = "400">
-<img src = "Demo/AlgoComparison.png.png" width = "400">
+<img src = "Demo/AlgoComparison.png" width = "400">
 
 # Results # 
 
