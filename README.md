@@ -1,6 +1,8 @@
 # IrisFlowerClassification
 My approach on the classic Iris Classification Problem using Pandas, Matplotlib, and SKLearn. 
 
+<img src = "Demo/IrisDemo.jpeg" width = "600">
+
 # Technology and Notes
 Built using SKLearn's metrics and linear models. 
 I made an effort to document the iPython Notebook well in the event that future users wanted to use my project as a guide. 
